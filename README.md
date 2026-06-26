@@ -22,6 +22,14 @@ As a Senior AI Engineer and Systems Architect, I teach you the "Dark Arts" of na
 
 ---
 
+## 🔗 Recommended Preparation Resources
+
+Before booking a session, I highly recommend exploring my public resources to understand the depth of our discussions:
+- 🌐 **[Dimitris Karydas - Live Portfolio](https://karidasd.github.io/)**: Explore my complete body of work, custom LLM architectures, and agentic workflows.
+- 😈 **[The Gold Edition: AI Interview Cheatsheets](https://github.com/karidasd/Tech-interview-cheatsheets)**: My massive open-source repository containing 300+ Machiavellian, edge-case interview questions and strategies.
+
+---
+
 ## 🧪 The Gauntlet: Educational Case Studies
 *To understand the depth of this Masterclass, look at how we dissect real-world scenarios. We don't just teach the "right answer"; we teach the psychological and architectural superiority required to pass.*
 

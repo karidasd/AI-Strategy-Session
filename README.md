@@ -31,6 +31,7 @@ Before booking a session, I highly recommend exploring my public resources to un
 **📖 External Essential Reading (The "Dark Arts" Theory)**
 - 📄 **[Double Descent & Grokking (OpenAI Research)](https://openai.com/index/deep-double-descent/)**: Understanding why adding more data and compute can initially make a model worse.
 - 📄 **[Speculative Decoding (DeepMind)](https://deepmind.google/discover/blog/accelerating-large-language-model-decoding-with-speculative-sampling/)**: The architecture required to radically reduce LLM inference latency (TTFT) without degrading output quality.
+- 📄 **[Algorithmic Collusion & Game Theory (Nature/Science)](https://www.science.org/doi/10.1126/science.aam9335)**: Deep reading on how multi-agent Reinforcement Learning systems independently learn to price-fix and exploit markets without explicit programming.
 - 📄 **[The HireVue Algorithm (WSJ Expose)](https://www.wsj.com/articles/hirevue-ai-automated-hiring-video-interviews-11624467027)**: A deep-dive into how AI screening platforms use Computer Vision and NLP to evaluate confidence and leadership traits.
 - 📄 **[Goodhart's Law & Reward Hacking (LessWrong)](https://www.lesswrong.com/tag/goodhart-s-law)**: Advanced reading on AI Alignment and why optimizing for a single metric inevitably destroys the entire system.
 
@@ -70,10 +71,11 @@ This is not a generic "LeetCode" tutorial. This is a masterclass in psychologica
 - **The "Trojan Horse" Resume:** Embedding invisible payloads in your PDF to hijack ATS systems. 
 - **The Confidence Exploit:** Using Computer Vision principles to artificially inflate your "Leadership" scores on automated video interviews based on eye-tracking and micro-expressions.
 
-### ♟️ Module 2: Psychological Interview Strategies
+### ♟️ Module 2: Psychological Interview Strategies & Negotiation
 *How to manipulate the power dynamics of a technical interview.*
 - **The "Altman Equation" Reversal (Financial Shock):** When asked how you would build a custom LLM pipeline, juniors say *"I'll spin up 8x H100s on AWS."* 
   - *Your Answer:* *"We don't touch cloud GPUs until we exhaust local inference, 4-bit quantization, and open-source models. Compute is not an open bar; it's an electric bill. I protect the company's run-rate, not Nvidia's stock price."* 
+- **The "Prisoner's Dilemma" Salary Negotiation:** Applying Game Theory to the HR negotiation phase. How to use asymmetric information and non-credible threats to force the recruiter into a dominant strategy that mathematically maximizes your total compensation.
 - **The Meta-Reviewer Framework:** When asked to live-debug a memory leak, don't just fix the code. Shift to production-level trade-offs: *"I can fix this memory leak, but since our runtime is Serverless, the actual bottleneck is the cold start and the Python GIL, not this loop."*
 - **The "Poison Pill" Tactic:** Deliberately leaving a minor flaw in your system design to bait the interviewer into "correcting" you. You agree with their brilliance, validating their ego.
 - **The "Over-Engineering" Reversal:** Designing an overly complex architecture, only to erase it and propose a simpler Bash/EC2 solution, proving you prioritize cost over shiny tools.

@@ -28,6 +28,12 @@ Before booking a session, I highly recommend exploring my public resources to un
 - 🌐 **[Dimitris Karydas - Live Portfolio](https://karidasd.github.io/)**: Explore my complete body of work, custom LLM architectures, and agentic workflows.
 - 😈 **[The Gold Edition: AI Interview Cheatsheets](https://github.com/karidasd/Tech-interview-cheatsheets)**: My massive open-source repository containing 300+ Machiavellian, edge-case interview questions and strategies.
 
+**📖 External Essential Reading (The "Dark Arts" Theory)**
+- 📄 **[Double Descent & Grokking (OpenAI Research)](https://openai.com/index/deep-double-descent/)**: Understanding why adding more data and compute can initially make a model worse.
+- 📄 **[Speculative Decoding (DeepMind)](https://deepmind.google/discover/blog/accelerating-large-language-model-decoding-with-speculative-sampling/)**: The architecture required to radically reduce LLM inference latency (TTFT) without degrading output quality.
+- 📄 **[The HireVue Algorithm (WSJ Expose)](https://www.wsj.com/articles/hirevue-ai-automated-hiring-video-interviews-11624467027)**: A deep-dive into how AI screening platforms use Computer Vision and NLP to evaluate confidence and leadership traits.
+- 📄 **[Goodhart's Law & Reward Hacking (LessWrong)](https://www.lesswrong.com/tag/goodhart-s-law)**: Advanced reading on AI Alignment and why optimizing for a single metric inevitably destroys the entire system.
+
 ---
 
 ## 🧪 The Gauntlet: Educational Case Studies
